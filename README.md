@@ -1,1 +1,2 @@
-# Gym-website.github.io
+# Gym-website
+This website is basically used for registration.
